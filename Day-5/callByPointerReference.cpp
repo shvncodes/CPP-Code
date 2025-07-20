@@ -5,10 +5,10 @@ int sum (int a, int b) {
     int c = a + b;
     return c;
 }
-void swap (int* a, int* b) {   //This will also swap the value of a and b
+void swap (int* a, int* c) {   //This will also swap the value of a and b
     int temp = *a;
-    *a = *b;
-    *b = temp;
+    *a = *c;
+    *c = temp;
 }
 
 int main() {
