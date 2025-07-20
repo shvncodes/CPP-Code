@@ -5,7 +5,8 @@ using namespace std;
  was
  created
  by 
- Shivani*/
+ Shivani
+ */
 int main() 
 {
     cout<<"Understanding headers"; 
